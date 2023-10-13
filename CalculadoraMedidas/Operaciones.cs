@@ -8,7 +8,7 @@ namespace CalculadoraMedidas
 {
     public class Operaciones
     {
-        double x;
+        double y;
         double resultado;
         public Operaciones(double x)
         {
